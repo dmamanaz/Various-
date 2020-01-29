@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="et_hint_send_data_to_fragment_2" />
+    <string name="btn_text_send" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetworkCall</string>
+    <string name="search_book_title">Search book title</string>
+    <string name="search_your_favorite_book">Search your favorite book</string>
+    <string name="number_of_results">Number of results</string>
+    <string-array name="books_types">
+        <item>books</item>
+        <item>magazines</item>
+    </string-array>
+
+
+</resources>
